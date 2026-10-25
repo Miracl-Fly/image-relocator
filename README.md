@@ -1,4 +1,4 @@
-🖼️ Image Relocator (Foundry VTT 图片迁移工具)
+<h1 align="center">🖼️ Image Relocator (Foundry VTT 图片迁移工具)</h1>
 
 一个专为 Foundry VTT 打造的神器级图片管理模块。无论你导入了多么混乱的模组（比如 PF1 的冒险之路），只需一键，即可自动扫描世界内的所有图片，按规范分类、去重并重写所有文档引用。
 ✨ 核心功能
