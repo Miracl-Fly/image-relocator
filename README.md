@@ -74,5 +74,6 @@ await game.modules.get("image-relocator").api.run({
 });
 ```
 
-📜 许可协议 (License)
+## 📜 许可协议 (License)
+
 本项目采用 MIT License 许可。你可以自由分发、修改，甚至用于商业跑团，但请保留原作者信息。
