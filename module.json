@@ -1,0 +1,16 @@
+{
+  "id": "image-relocator",
+  "title": "Image Relocator (图片迁移工具)",
+  "description": "扫描世界内的图片，自动按类型和文件夹分类复制到指定目录，并重写所有文档引用。",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "13"
+  },
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "flags": {
+    "canUpload": true
+  }
+}
